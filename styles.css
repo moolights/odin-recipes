@@ -1,12 +1,52 @@
 /* styles.css */
 
+/* Sets the main title font size and background color */
 .main-title {
     background-color: bisque;
     font-size : 150px;
     text-align : center;
 }
 
+/* Sets main recipe title font size and color */
 .title {
     font-size : 50px;
     color : black;
 }
+
+/* Sets recipe titles to beige background */
+.recipe-title {
+    background-color : bisque;
+    font-size : 50px;
+    font-weight : bold;
+    text-align : center;
+}
+
+/* Sets doubles recipe title background to red */
+.culture-color {
+    background-color : red;
+}
+
+/* Adjusts image to fit page */
+img {
+    height : auto;
+    width : 1000px;
+}
+
+/* Sets the headings (h3 & h4) to set font size and weight */
+h3 {
+    font-size : 35px;
+    font-weight : bold;
+}
+
+h4 {
+    font-size : 25px;
+    font-weight : bold;
+}
+
+/* Sets the listed items and description to set font size and font family */
+p,
+li {
+    font-size : 20px;
+    font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
