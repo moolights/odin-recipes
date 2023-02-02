@@ -1,0 +1,12 @@
+/* styles.css */
+
+.main-title {
+    background-color: bisque;
+    font-size : 150px;
+    text-align : center;
+}
+
+.title {
+    font-size : 50px;
+    color : black;
+}
