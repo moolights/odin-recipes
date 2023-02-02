@@ -46,7 +46,7 @@ h4 {
 /* Sets the listed items and description to set font size and font family */
 p,
 li {
-    font-size : 20px;
-    font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size : 19px;
+    font-family : 'Courier New', Courier, monospace;
 }
 
